@@ -98,7 +98,7 @@ def recommend(genre):
                    toolbar_location=None, tools=[TOOLTIPS_PROFIT])
         p_profit.yaxis[0].formatter = NumeralTickFormatter(format='0')
         p_profit.xaxis.major_label_orientation = "vertical"
-        p_profit.vbar(x='name', top='profit', width=2, source = df_filter)
+        p_profit.vbar(x='name', top='profit', width=0.4, source = df_filter)
         p_profit.xgrid.grid_line_color = "black"
         p_profit.y_range.start = 0
 
@@ -120,7 +120,7 @@ def recommend(genre):
                    toolbar_location=None, tools=[TOOLTIPS_DIRECTOR])
         p_director.yaxis[0].formatter = NumeralTickFormatter(format='0')
         p_director.xaxis.major_label_orientation = "vertical"
-        p_director.vbar(x='directors', top='profit', width=2, color = "orange" ,source = df_filter)
+        p_director.vbar(x='directors', top='profit', width=0.4, color = "orange" ,source = df_filter)
         p_director.xgrid.grid_line_color = "black"
         p_director.y_range.start = 0
 
@@ -142,7 +142,7 @@ def recommend(genre):
                    toolbar_location=None, tools=[TOOLTIPS_DIRECTOR_RATING])
         p_director_rating.yaxis[0].formatter = NumeralTickFormatter(format='0')
         p_director_rating.xaxis.major_label_orientation = "vertical"
-        p_director_rating.vbar(x='directors', top='rating', width=2, color = "brown" ,source = df_filter)
+        p_director_rating.vbar(x='directors', top='rating', width=0.4, color = "brown" ,source = df_filter)
         p_director_rating.xgrid.grid_line_color = "black"
         p_director_rating.y_range.start = 0
 
