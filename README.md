@@ -1,5 +1,5 @@
 # movie-recommendation-system-and-visualizatio
-It is a movie recommendation and visualization system. The user can select the genre from the 18 genres that are available and the system will show different visualizations with various comparisons such as "year released vs imdb rating", "which directors have movies with highest IMDB ratings and profits" and much more. 
+It is a movie recommendation and visualization system. The user can select the genre from the 18 genres that are available and the system will show different visualizations with various comparisons such as "year released vs imdb rating", "which directors have movies with highest IMDB ratings and profits" and much more. The visualizations support for hovertool which allows you to see the exact values/data by hovering to the visualization.
 
 It implements the use of SQL and Microsoft Excel for the data cleaning and Data pre-processing.
 Then it uses python for the logic of the project and database is also linked using psycopg2 library.
