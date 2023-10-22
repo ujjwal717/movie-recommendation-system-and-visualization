@@ -7,13 +7,36 @@ Then pandas is used for the data frame and the manipulation of the data frame.
 I have also used bokeh for the visualization of the data.
 Along with this, I have also used libraries for saving the output file and then showing it to web browser.
 
-![11](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/17c9bd7c-53e0-46eb-bbbd-39b2e46bd6fd)
+**Workimg :-** In this project, the user first needs to select the category of the movie from the various available categories(available categories are also displayed to the user). When user select a category, then the system generates various insights/data with visuals which we will discuss one by one.
 
-![22](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/abf11591-528b-4799-954d-9c40445de350)
+**Note :- I have taken "Romance" as Movie Category to generate the visuals for this readme to explain the visual and the insight.**
 
-![33](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/e06f9360-d508-422c-9f4b-4c9da908f38e)
 
-![44](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/b9ad3b0a-e9d8-4bf3-95d9-18ccd5ee29a7)
+1) **Genre sorted according to IMDB Rating**
+
+
+
+![genre sorted according to IMDB rating](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/8ae47b59-b89d-45eb-86d4-0f493690a8b4)
+
+
+**Explanation :-** In this, I have used the scatterplot having the IMDB rating at X-Axis and release year of the movie at Y-Axis.
+
+**Insight :-** I found that in "Romance" genre, the highest IMDB rating(obviously from the dataset) is of movie named "Forrest Gump" and has an IMDB Rating of '8.8'and was released in 1994. Also, the visual supports for hovering tool, so you can just hover over each scatterplot to have a detailed information about the movie such as 'Genre','Run-Time','IMDB Rating','Certificate' and more.
+
+
+
+2)**IMDB Rating and Certificate of movies according to selected Genre**
+
+
+![rating vs certification of movies based on selected genre](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/9cf4b93c-bb88-409d-beaf-bb461fa2967e)
+
+
+
+**Explanation :-** This Visual includes certificate at the X-Axis and IMDB Rating at the Y-Axis.
+
+**Insight :-** I found that movies of PG-13 certificate has the highest IMDB Rating and some of such movies are "Forrest Gump" , "Life is Beautiful". This visual also supports for hovering which will provide you the detailed information about the movie, certificate and rating.
+
+
 
 
 
