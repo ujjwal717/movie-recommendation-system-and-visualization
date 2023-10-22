@@ -7,7 +7,7 @@ Then pandas is used for the data frame and the manipulation of the data frame.
 I have also used bokeh for the visualization of the data.
 Along with this, I have also used libraries for saving the output file and then showing it to web browser.
 
-**Workimg :-** In this project, the user first needs to select the category of the movie from the various available categories(available categories are also displayed to the user). When user select a category, then the system generates various insights/data with visuals which we will discuss one by one.
+**Working :-** In this project, the user first needs to select the category of the movie from the various available categories(available categories are also displayed to the user). When user select a category, then the system generates various insights/data with visuals which we will discuss one by one.
 
 **Note :- I have taken "Romance" as Movie Category to generate the visuals for this readme to explain the visual and the insight.**
 
