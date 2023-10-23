@@ -49,5 +49,67 @@ So, all the used libraries are mentioned below :-
 
 
 
+3) **Box-Office Collection of movies according to Genre selected**
+
+
+
+![your genre boxoffice collection and budget](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/1761c8d2-a300-4737-934c-3990ee1e0228)
+
+
+
+
+
+**Explanation :-** This visual shows us the box office collection of the movies according to the genre selected by the user with the help of scatterplot visual.
+
+**Insight :-** I found that Forrest Gump has the highest box office collection(among the movies in the dataset). Again Hovering is supported to check the exact details of forrest gump and other various movies as well.
+
+
+
+4) **Movie profit according to Genre**
+
+
+
+![movie profit according to genre](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/8ba6e0a1-8917-4578-a413-acb95cd1bfb0)
+
+
+
+
+**Explanation :-** In this visual, we are having movie name at the X-Axis and profit at the Y-Axis. Hovering is also supported.
+
+
+
+
+**Insight :-** I found that in Romance category, forrest gump again is the movie having highest profit and "Gone with the wind" comes at second(I was not able to capture it in visual with snipping tool). While movies like Modern Times,City Lights did not performed that well in comparison.
+
+
+
+
+
+5) **Directors having highest Profits according to Genre**
+
+
+
+![list of directors having highest profits](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/b2a6abd9-517f-4fad-a971-6daa146d6af9)
+
+
+
+
+**Explanation :-** It shows the director names at the X-Axis and profits at the Y-Axis.
+
+**Insight :-** I found that again in Romamce Category, director of forrest gump "Robert Zemeckis" has the highest profits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
