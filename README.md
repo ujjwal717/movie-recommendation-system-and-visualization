@@ -102,6 +102,19 @@ So, all the used libraries are mentioned below :-
 
 
 
+6) **List of directors having movies of highest IMDB Rating :-**
+
+
+
+![list of directors having highest IMDB Rating](https://github.com/ujjwal717/movie-recommendation-system-and-visualization/assets/93403224/8fc02db8-14ac-4004-8612-ef3badf7dd52)
+
+
+
+
+**Explanation :-** It also includes directors at X-Axis and IMDB Rating at Y-Axis. It suuports hovering as well like every other visualization.
+
+
+**Insight :-** Here, I found that there are various directors having one of the best IMDB Rating. The hovering tool will allow you to see the movie name as well that has the Best IMDB Rating because of which that particular director came in the visual with highest IMDB Rating.
 
 
 
